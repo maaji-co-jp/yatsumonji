@@ -1,4 +1,4 @@
-print("Hello, World!!")
+primt("Hello, World!!")
 
 numbers = range(1, 10)
 
