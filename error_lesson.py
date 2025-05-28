@@ -1,6 +1,6 @@
 print("Hello, World!!")
 
-numbers = range(1, 10)
+numbers = range(1 10)
 
 for i in numbers:
     if i % 2 == 0:
